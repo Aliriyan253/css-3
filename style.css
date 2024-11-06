@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+
+
+
+body {
+
+    margin: 0px; ;
+    padding: 0%;
+    background-color: #ccc15eab; 
+    font-family: system-ui, -apple-system, 'Segoe UI', sans-serif
+    
+    
+  }
+  
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .main-heading {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: #333; 
+    background-color: aquamarine;
+    line-height: 100px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    word-spacing: 10px;
+    width: 100%;
+  }
+  
+  .first-subheading,
+  .second-subheading {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 03px;
+    color: #ffffff;
+    text-align: right;
+    text-decoration: underline; 
+    background-color: rgb(8, 70, 46);
+    line-height: normal;
+  }
+  
+  .first-paragraph,
+  .second-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  .list {
+    margin-top: 20px;
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #666; /* Dark gray text */
+    text-decoration: line-through;
+  }
